@@ -6,7 +6,7 @@
 [Toilet Paper](http://papertoilet.com/)
 
 
-![Image](https://static.wikia.nocookie.net/despicableme/images/2/2e/Mel_Minion_01.png/revision/latest/top-crop/width/360/height/450?cb=20160717135212)
+![Image](https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2F2458_mdm3_prints_p1880-2000.jpg)
 
 > Suprith
 
