@@ -1,1 +1,1 @@
-![Screenshot](C:\Users\supri\OneDrive\Documents\GitHub\cse15l-lab-reports\Screenshot 2022-01-12 183830.png)
+![Screenshot](SS.png)
