@@ -6,7 +6,7 @@
 [Toilet Paper](http://papertoilet.com/)
 
 
-![Image](https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2F2458_mdm3_prints_p1880-2000.jpg)
+![Image](https://m.media-amazon.com/images/M/MV5BMTgxMzc2OTQwOV5BMl5BanBnXkFtZTgwODQ2OTgwNjE@._V1_.jpg)
 
 > Suprith
 
