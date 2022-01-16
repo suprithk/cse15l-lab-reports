@@ -51,4 +51,22 @@ Follow the command as below and you would be able to login without entering your
 
 # Optimizing Remote Running
 
+Learning from above, we can maximize efficiency and use the below methods. 
+
+* `ssh cs15lwi22xxx@ieng6.ucsd.edu "ls"` - you can combine multiple commands in a line. Another example in the screenshot below. 
+
+![Image](Shortcut.png)
+
+* A shortcut - use the up-arrow key to recall the last command. 
+
+* To make a local change in `WhereAmI.java` and copy it to the remote server, first add a line to the file on your device:
+
+`System.out.println("hello world");`
+
+Then execute the following in the terminal:
+
+`scp WhereAmI.java cse15lwi22xxx@ieng6.ucsd.edu:~/; javac WhereAmI.java; java WhereAmI`
+
+
+
 
