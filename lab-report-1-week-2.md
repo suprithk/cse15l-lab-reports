@@ -67,6 +67,12 @@ Then execute the following in the terminal:
 
 `scp WhereAmI.java cse15lwi22xxx@ieng6.ucsd.edu:~/; javac WhereAmI.java; java WhereAmI`
 
+Finally, let's compare the number of keystrokes using the optimized method, and comparing it to the keystrokes in part 5 from Lab 1 - Moving files with scp.
+
+* Part 5 took a total of 52 keystrokes including copy pasting the commands and executing them, after creating and saving the WhereAmI.java file.
+* The optimized version had significantly less keystrokes with 11, using the shorcuts given above.
+
+
 
 
 
