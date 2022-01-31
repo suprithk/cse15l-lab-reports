@@ -11,7 +11,7 @@ This [failure-inducing input](https://raw.githubusercontent.com/suprithk/markdow
 ![Image](report-2.2a.png)
 ![Image](report-2.2b.png)
 
-# Bug 3 - File with 
+# Bug 3 - File with Empty Parenthesis
 
 This [failure-inducing input](https://raw.githubusercontent.com/suprithk/markdown-parse/b5b3286e691f36652e65c849355618a38ab788ad/file3.md) had the line `[]()` that made the algorithm add an additional empty element to the array producing the symptom `[, example.com]`. The algorithm was changed as shown below to skip this empty element instead.
 
