@@ -62,7 +62,7 @@ This is the preview for the third snippet
 
 * This indicates that the expected links should be the following if we want to get all the links in the snippet
     * **["https://www.twitter.com", "https://ucsd-cse15l-w22.github.io/", "https://cse.ucsd.edu/"]**
-    * It is also worth considering how we intend to implement our parser. If we just want to include the links that come within the format for links in `md` files, instead of recognizing standalone URLs, we would expect a different output `["https://ucsd-cse15l-w22.github.io/"]`. The other links that show up in the preview are blue only because `md` files recognize them as standalone URLs without the format (we can still see that it prints the brackets and the text within instead of hyperlinking the URL with that text).
+    * It is also worth considering how we intend to implement our parser. If we just want to include the links that come within the format for links in `md` files, instead of recognizing standalone URLs, we would expect a different output `["https://ucsd-cse15l-w22.github.io/"]`. The other links that show up in the preview are blue only because VSC recognizes them as standalone URLs (we can still see that it prints the brackets and the text within instead of hyperlinking the URL with that text).
 
 
 * The test that was included for both the implementations
